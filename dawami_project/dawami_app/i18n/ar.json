@@ -1,0 +1,16 @@
+{
+    "login.username": "اسم المستخدم",
+    "login.password": "كلمة المرور",
+    "login.button": "تسجيل الدخول",
+    "main.title": "دوامي - نظام الحضور",
+    "menu.employees": "الموظفين",
+    "menu.attendance": "الحضور",
+    "menu.leave": "إدارة الإجازات",
+    "settings.title": "الإعدادات",
+    "reports.title": "التقارير",
+    "general.save": "حفظ",
+    "general.cancel": "إلغاء",
+    "general.status.pending": "قيد الانتظار",
+    "general.status.approved": "موافق عليه",
+    "general.status.rejected": "مرفوض"
+}

@@ -1,0 +1,16 @@
+{
+    "login.username": "Username",
+    "login.password": "Password",
+    "login.button": "Login",
+    "main.title": "Dawami - Attendance System",
+    "menu.employees": "Employees",
+    "menu.attendance": "Attendance",
+    "menu.leave": "Leave Management",
+    "settings.title": "Settings",
+    "reports.title": "Reports",
+    "general.save": "Save",
+    "general.cancel": "Cancel",
+    "general.status.pending": "Pending",
+    "general.status.approved": "Approved",
+    "general.status.rejected": "Rejected"
+}
